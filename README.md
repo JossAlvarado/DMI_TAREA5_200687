@@ -12,7 +12,7 @@
 | Característica         | Información                                                              |
 |------------------------|--------------------------------------------------------------------------|
 | Nombre                 | DMI_TAREA5_200687                                     |
-| Fecha de Carga         | 15/09/2023                                                                 |
+| Fecha de Carga         | 19/09/2023                                                                 |
 
 ## Descripción      
 

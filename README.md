@@ -35,14 +35,12 @@ La aplicación presenta una función de carrusel de imágenes que permite a los 
 ### Defino el método onPressedButton():
    - Este método se ejecuta cuando se presiona el botón.
   
-
-
-
-
-
 ## Capturas de Pantalla de la App
 
-![image](https://github.com/JossAlvarado/tarea5_200687/assets/84793967/c212b499-6d88-4f8f-b056-87bc143c5845)
-![image](https://github.com/JossAlvarado/tarea5_200687/assets/84793967/4db42d80-8755-45ea-90d3-66e0aae1cd27)
-![image](https://github.com/JossAlvarado/tarea5_200687/assets/84793967/2af99b49-f7b3-40d1-be0d-22045dcc96a7)
+![image](https://github.com/JossAlvarado/DMI_TAREA5_200687/assets/84793967/487fcc28-efe0-4e82-ac8f-eb5ca7b22cc6)
+
+![image](https://github.com/JossAlvarado/DMI_TAREA5_200687/assets/84793967/369f9bf7-236c-4e6a-bd15-de9f39ecea02)
+
+![image](https://github.com/JossAlvarado/DMI_TAREA5_200687/assets/84793967/2ebd3bcf-adea-4706-bdfc-8f5d7711d4b8)
+
 
